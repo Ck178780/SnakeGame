@@ -33,29 +33,29 @@ Utilizes names, consistent indentation, and concise comments contribute to code 
 
 ### Sequence Diagram:
 
-![Diagrams](Diagram.png)
+![Diagrams](Diagrams/Diagram.png)
 
 ### snake Class Diagram:
 
-![Diagrams](snake_class_diagram.png)
+![Diagrams](Diagrams/snake_class_diagram.png)
 
 ### food Class Diagram:
 
-![Diagrams](food_class_diagram.png)
+![Diagrams](Diagrams/food_class_diagram.png)
 
 ### scoreboard Class Diagram:
 
-![Diagrams](scoreboard_class_diagram.png)
+![Diagrams](Diagrams/scoreboard_class_diagram.png)
 
 ### IV. Gameplay Screenshots:
 
 ### Gameplay:
-Here the user accumilated a score of 15 before losing the game.
+Here the user accumilated a score of 32 before losing the game.
 
-![Diagrams](32Game.png)
+![Screenshots](Screenshots/32Game.png)
 
 
 ### Game Over:
 when the snake touches a wall or collides with it's own tail the game is over.
 
-![Diagrams](GameOver.png)
+![Diagrams](Screenshots/GameOver.png)
